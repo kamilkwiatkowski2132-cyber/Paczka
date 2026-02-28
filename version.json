@@ -2,11 +2,10 @@
   "launcher_name": "Axone Launcher",
   "minecraft_version": "1.20.1",
   "modloader": "Forge",
-  "client_version": "1.1",
-  "download_url": "https://github.com/kamilkwiatkowski2132-cyber/Paczka/releases/download/v1.1/PACZKA.zip",
+  "client_version": "1.2",
+  "download_url": "https://github.com/kamilkwiatkowski2132-cyber/Paczka/releases/download/v1.2/PACZKA.zip",
   "force_update": true,
   "changelog": [
-    "Pierwsze wydanie paczki",
-    "Dodano podstawowe mody"
+    "Aktualizacja do wersji 1.2"
   ]
 }
